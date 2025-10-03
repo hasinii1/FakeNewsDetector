@@ -1,6 +1,5 @@
 📰 FakeNewsDetector:
-A machine learning-based project designed to classify news articles as real or fake using Natural Language Processing (NLP) techniques. 
-This project helps in combating misinformation by applying AI-driven text analysis and classification models.
+A machine learning-based project designed to classify news articles as real or fake using Natural Language Processing (NLP) techniques. This project helps in combating misinformation by applying AI-driven text analysis and classification models.
 
 ⚙️ Installation:
 1.Clone the repository:
